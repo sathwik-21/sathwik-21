@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hey I'm Sathwik,
-a passionate Machine Learning & Data Science enthusiast who loves building real-world projects
+a passionate AI & ML Enthusiast.
 ![Image](https://github.com/user-attachments/assets/3b70af93-3b55-4d26-84b9-8063728c94df)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sathwik-21&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
