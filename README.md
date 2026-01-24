@@ -1,65 +1,71 @@
-# Hi there, I'm [Your Name]! 👋 
+<div align="center">
+   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
+</div>
+
+<h3 align="center">
+  Hi, I'm <b>Sathwik Reddy</b>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Data+Scientist;Machine+Learning+Engineer;Python+Developer" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=440&height=45&lines=DSA;Machine+Learning;Deep+Learning;AI" alt="Typing SVG" /></a>
 </p>
 
 ---
 
-### 💫 About Me
-- 🔭 I’m currently working on **Advanced ML Pipelines**
-- 🌱 I’m currently learning **Deep Learning Optimization**
-- 👯 I’m looking to collaborate on **Open Source Data Science tools**
-- 💬 Ask me about **Neural Networks or Data Visualization**
+- 👨‍💻 I'm passionate about AI and I'm constantly learning and exploring new technologies to improve my skills.
 
----
+## 🛠 &nbsp;Tech Stack
 
-### 🛠 Tech Stack & Tools
+#### 🔧 Languages
 
-#### 🐍 Languages & Core
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,mysql,git,github,docker" />
-</p>
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
-#### 📊 Data Science & Machine Learning
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=numpy,pandas,flask,pytorch,tensorflow" />
-  </a>
-  <br>
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />
-  <img src="https://img.shields.io/badge/Seaborn-%23444e91.svg?style=for-the-badge&logo=Seaborn&logoColor=white" />
-</p>
+#### 🖥️ Frameworks
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white)
 
----
+#### 📚 Libraries
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=[YOUR-USERNAME]&theme=radical&column=7&margin-w=15&margin-h=15" alt="Trophy" />
-</p>
+![Numpy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23E20000.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
 
----
+#### 🔧 Tools
 
-### 📊 Performance Metrics
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[YOUR-USERNAME]&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR-USERNAME]&layout=compact&theme=nord&langs_count=6"/>
-</p>
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
----
+## 📊 Profile Statistics
 
-### 🐍 Contribution Activity
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR-USERNAME]&theme=nord" alt="GitHub Streak" />
-</p>
+ <div align=center>
 
-<p align="center">
-  <img src="https://github.com/[YOUR-USERNAME]/[YOUR-USERNAME]/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=Abdalrahman-Alhamod&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true&rank_icon=percentile)
+<br>
 
----
+</div>
+ 
+ ### 💳 Github Profile Summary Card
+ 
+ <div align=center>
+  
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sathwik-21&theme=github_dark)
+  
+ </div>
+ 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=[YOUR-USERNAME]&label=Profile%20views&color=36BCF7&style=flat" alt="Profile Views" />
-</p>
+### 📊 Most Used Language
+
+ <div align=center>
+  
+[![](https://github-readme-stats.vercel.app/api/top-langs?username=sathwik-21&show_icons=true&locale=en&layout=compact&theme=radical)]()  
+  
+ </div>
